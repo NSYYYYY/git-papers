@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ##Conclusion this is basically nearing the end of the course
 
+=======
+This is now to test that there are multiple clones
+>>>>>>> refs/remotes/origin/main
 
 For GitHub Testing purposes
 
