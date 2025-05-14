@@ -1,3 +1,9 @@
+
+This was done by SY
+
+Affiliation: NTU
+
+
 <<<<<<< HEAD
 ##Conclusion this is basically nearing the end of the course
 
